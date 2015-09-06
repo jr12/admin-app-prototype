@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AdminApp</string>
+    <string name="login">Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_new">Create New</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_box_1">box1</string>
+    <string name="title_activity_box_2">box2</string>
+    <string name="title_activity_box_3">box3</string>
+    <string name="title_activity_create_new">CreateNew</string>
+
+</resources>
